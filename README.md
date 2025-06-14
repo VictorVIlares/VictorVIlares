@@ -1,6 +1,6 @@
-# 👨‍💻 Victor Vilares 
+# 👩‍💻 Victor Vilares 
 
-**`Engenheiro de Software em formação`**
+### *Engenheiro de Software em formação*
 
 ---
 
